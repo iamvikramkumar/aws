@@ -12,7 +12,7 @@ To connect your VPC to the internet or other networks, you can set up gateways o
 
 With a VPC, you have control over your network environment. You can define access rules, set up firewalls, and configure security groups to regulate who can access your resources and how they can communicate.
 
-![image](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/assets/43399466/12cc10b6-724c-42c9-b07b-d8a7ce124e24)
+![1](https://github.com/user-attachments/assets/dd1f544e-7d74-4b57-b1ff-692b8a1a6441)
 
 By default, when you create an AWS account, AWS will create a default VPC for you but this default VPC is just to get started with AWS. You should create VPCs for applications or projects. 
 
@@ -67,6 +67,4 @@ VPC with servers in private subnets and NAT
 
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html
 
-![image](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/assets/43399466/89d8316e-7b70-4821-a6bf-67d1dcc4d2fb)
-
-
+![2](https://github.com/user-attachments/assets/6095f98d-d653-49bd-86bb-ef4107a3e4eb)
