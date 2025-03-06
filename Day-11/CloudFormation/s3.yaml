@@ -2,6 +2,6 @@ Resources:
   MyS3Bucket:
     Type: 'AWS::S3::Bucket'
     Properties:
-      BucketName: demo.aws.vikram.example.com # Replace with a unique bucket name
+      BucketName: demo.aws.vikram.example.com 
       VersioningConfiguration:
         Status: Enabled
