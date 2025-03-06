@@ -5,4 +5,4 @@ Resources:
     Properties:
       InstanceType: t2.micro 
       ImageId: ami-05b10e08d247fb927 # Replace with a valid AMI ID for your region
-      AvailabilityZone: us-east-1a 
+      AvailabilityZone: us-east-1a  # Replace with a valid AZ for your region
