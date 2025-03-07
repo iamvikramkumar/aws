@@ -72,10 +72,19 @@ Moving a Jenkins-based CI/CD ecosystem is straightforward. Since Jenkins is self
 
 ---
 
+## Comparison Table
+
+| Feature | Jenkins with ArgoCD | AWS CodePipeline |
+| --- | --- | --- |
+| **Cloud Portability** | High | Low |
+| **Maintenance Overhead** | High | Low |
+| **Scalability** | Medium | High |
+| **Vendor Lock-in** | Low | High |
+| **Cost Management** | Medium | High |
+
 ## Conclusion
 
 - **Use Jenkins + ArgoCD** if you need **portability** across different cloud providers and want an **open-source** approach.
 - **Use AWS CodePipeline** if you want a **fully managed, AWS-integrated** CI/CD process and are willing to stay within the AWS ecosystem.
 
 Choosing the right CI/CD architecture depends on your **team's expertise, cloud strategy, and budget considerations**.
-
