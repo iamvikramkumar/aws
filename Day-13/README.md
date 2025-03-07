@@ -12,6 +12,7 @@ It also discusses when to use each architecture and the pros and cons of both ap
 ---
 
 ## Architecture 1: Jenkins with ArgoCD
+![cicd jenkins](https://github.com/user-attachments/assets/bea50c8a-57d9-4572-b3f5-0090b0607e6f)
 
 ### Workflow
 
@@ -45,6 +46,7 @@ Moving a Jenkins-based CI/CD ecosystem is straightforward. Since Jenkins is self
 ---
 
 ## Architecture 2: AWS CodePipeline with CodeBuild and CodeDeploy
+![cicd aws ](https://github.com/user-attachments/assets/ffe5e5fc-db5a-4556-83e6-06cc288413af)
 
 ### Workflow
 
